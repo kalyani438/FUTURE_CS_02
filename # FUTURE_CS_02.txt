@@ -1,0 +1,16 @@
+# FUTURE_CS_02
+
+## Project
+Phishing Email Analysis and Security Awareness.
+
+## Objective
+To analyze phishing emails, identify suspicious
+indicators, classify email risks, and create
+security awareness guidelines.
+
+## Tools
+- Git
+- GitHub
+- Google Messageheader
+- MXToolbox
+- VirusTotal
